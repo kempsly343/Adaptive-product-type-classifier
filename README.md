@@ -193,4 +193,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Customization
 
 - **Service URL**: http://beefc70d-f3a9-4231-80d1-606e3fa1ef2f.eastus2.azurecontainer.io/score
-- **Clone URL**: Change the `git clone` URL to your actual GitHub repository link.
